@@ -4,19 +4,22 @@
     padding: 32px 0;
 }
 .page-page{
-    margin-top: 64px;
+    padding: 10rem 5rem;
     font-size: 48px;
     font-weight: bold;
-    margin-bottom: 100px;
+    
 }
 
 .page-address{
     font-size: 32px;
     line-height: 1.6px;
+    margin-top: -4rem;
+    margin-left: 5rem;
 }
 
 .page-mainlink {
-    margin-top: 50px;
+    margin-top: 3rem;
+    margin-left: 5rem;
     font-size: 32px;
     line-height: 16px;
     color: red;

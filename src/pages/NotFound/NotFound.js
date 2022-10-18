@@ -15,7 +15,7 @@ function NotFound() {
             <div className='page-address'>
                 주소가 잘못되었거나 더 이상 제공되지 않는 페이지입니다.
             </div>
-            <div className='page-mainlink' onClick={() =>navigate('/home')}>
+            <div className='page-mainlink' onClick={() =>navigate('/')}>
                 메인페이지로 이동
             </div>
         </div>

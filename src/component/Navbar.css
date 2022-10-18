@@ -30,7 +30,7 @@ body {
     display: flex;
     align-items: center;
     font-family: 'Quakerhack';
-    font-size: 2.7rem;
+    font-size: 2.4rem;
   }
   
   .fa-typo3 {
@@ -47,6 +47,7 @@ body {
     width: 57vw;
     justify-content: end;
     margin-right: 0rem;
+    margin-left: 16rem;
     margin-bottom: 2.7rem;
     font-family: 'Quakerhack';
     font-size: 2rem;
